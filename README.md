@@ -1,6 +1,5 @@
 ### GAN与DCGAN
 
-本代码参考《21项目玩转深度学习》
 代码环境 windows10 + python3.6 + tensorflow 1.4.0
 
 **1 生成MNIST图像**
